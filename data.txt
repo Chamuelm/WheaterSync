@@ -1,0 +1,8 @@
+London
+25°, Partly Cloudy, Humidity: 69%
+26°, Sunny, Humidity: 53%
+32°, Sunny, Humidity: 73%
+Tel-Aviv
+30°, Partly Sunny, Humidity: 34%
+29°, Sunny, Humidity: 50%
+25°, Partly Cloudy, Humidity: 30%
