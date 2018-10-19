@@ -13,5 +13,5 @@ Client display the data with options to change server and port and report connec
 ## Screenshots:  
 * Client  
 	![](./pictures/Weather-Client.png "Client")  
-* Server
+* Server  
 	![](./pictures/Weather-Server.png "Server")  
